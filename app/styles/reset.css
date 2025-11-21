@@ -1,5 +1,5 @@
 body {
-  font-family:
+  /* font-family:
     system-ui,
     -apple-system,
     BlinkMacSystemFont,
@@ -10,7 +10,7 @@ body {
     Cantarell,
     'Open Sans',
     'Helvetica Neue',
-    sans-serif;
+    sans-serif; */
   margin: 0;
   padding: 0;
 }
@@ -78,9 +78,9 @@ body {
   min-height: 100vh;
 }
 
-body > main {
-  margin: 0 1rem 1rem 1rem;
-}
+/* body > main { */
+  /* margin: 0 1rem 1rem 1rem; */
+/* } */
 
 section {
   padding: 1rem 0;
@@ -134,6 +134,6 @@ dl {
 code {
   background: #ddd;
   border-radius: 4px;
-  font-family: monospace;
+  /* font-family: monospace; */
   padding: 0.25rem;
 }
